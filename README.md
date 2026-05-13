@@ -79,7 +79,7 @@ The raw dataset required significant cleaning before analysis. All operations we
 
 ## Dataset
 
-- **Source**: [Alex the Analyst]([https://github.com/AlexTheAnalyst](https://github.com/AlexTheAnalyst/MySQL-YouTube-Series/blob/main/layoffs.csv)) — World Layoffs dataset
+- **Source**: [Alex the Analyst](https://github.com/AlexTheAnalyst/MySQL-YouTube-Series/blob/main/layoffs.csv) — World Layoffs dataset
 - **Records**: ~2,000+ companies across multiple industries and countries
 
 ---
@@ -95,5 +95,6 @@ The raw dataset required significant cleaning before analysis. All operations we
 ## Author
 
 **Khaoula** — Data Science & Intelligent Systems 
+
 📌 Specialization: NLP, Machine Learning, Data Analysis  
-🔗 [Tableau Public]([https://public.tableau.com](https://public.tableau.com/app/profile/khaoula.ghimouze/vizzes)) | [Hugging Face](https://huggingface.co/khaoula-ghz)
+🔗 [Tableau Public](https://public.tableau.com/app/profile/khaoula.ghimouze/vizzes) | [Hugging Face](https://huggingface.co/khaoula-ghz)
